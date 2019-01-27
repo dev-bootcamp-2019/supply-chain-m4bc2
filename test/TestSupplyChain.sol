@@ -12,7 +12,7 @@ contract TestSupplyChain {
     // buyItem
 
     // test for failure if user does not send enough funds
-    // test for purchasing an item that is not for Sale 
+    // test for purchasing an item that is not for Sale
 
 
     // shipItem

@@ -12,7 +12,7 @@ contract TestSupplyChain {
     // buyItem
 
     // test for failure if user does not send enough funds
-    // test for purchasing an item that is not for Sale
+    // test for purchasing an item that is not for Sale 
 
 
     // shipItem
@@ -25,7 +25,7 @@ contract TestSupplyChain {
     // test calling the function from an address that is not the buyer
     // test calling the function on an item not marked Shipped
 
-     
+
 
 
 }
